@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/MontserratBlack.ttf",
+      "sha1": "8c3cd1ef054ee735f640013055e8e8d07996d70d"
+    },
+    {
+      "path": "src/assets/fonts/MontserratBold.ttf",
+      "sha1": "4c5b03394078109a583a5ba77c74b045c02e3d9f"
+    },
+    {
+      "path": "src/assets/fonts/MontserratLight.ttf",
+      "sha1": "15d185c04c4afb3f329643c3bc9b697106c3a9ac"
+    },
+    {
+      "path": "src/assets/fonts/MontserratMedium.ttf",
+      "sha1": "be0644fcab3959ef5dc76188689c31ae7976cda0"
+    },
+    {
+      "path": "src/assets/fonts/MontserratRegular.ttf",
+      "sha1": "88f5665acbfbf732cceeee1a40b8c3431a6ca094"
+    },
+    {
+      "path": "src/assets/fonts/MontserratSemibold.ttf",
+      "sha1": "94644f3386c7edf1b693ab3701600793e9fd565e"
+    },
+    {
+      "path": "src/assets/fonts/MontserratThin.ttf",
+      "sha1": "6708c7a220e7d84507e680cd443692cec0132aaf"
+    }
+  ]
+}
